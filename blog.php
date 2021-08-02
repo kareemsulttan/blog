@@ -912,11 +912,11 @@ switch ($_SESSION['lang'])
                                         darkening, some possibly interesting edge effects, and maybe even a bit of corona.</p>
                                 </div>
                             </div>
-                            <div class="container-fluid row ddimgmar">
+                            <div class="container-fluid row ddimgmar px-0">
                                <div class="col-lg-3 text-center disnononmobno">
                                     <img src="./images/when_to_use_inactive1.png" alt="When do I use the eclipse glasses?" class="mb-3">
                                 </div>
-                                <div class="col-lg-9">
+                                <div class="col-lg-9 px-0">
                                     <p style="text-align: justify;">However, if the Sun is not COMPLETELY eclipsed you
                                         MUST always use <u>eye</u> protection to watch the eclipse. That means that, even if these things are going on around
                                         you, if you’re not in the path you won’t be able to see most of them. It will be best for you to get as far
@@ -963,7 +963,7 @@ switch ($_SESSION['lang'])
                             <div class="padingnewdev d2 row">
                   
 
-                            <div class="col-lg-7 rightmartab">
+                            <div class="col-lg-7 rightmartab" style="font-size:17px">
                                 <h4><strong>Use <u>ISO-certified eye protection</u> during the partial phases</strong>
                                 </h4>
 								
@@ -999,7 +999,7 @@ switch ($_SESSION['lang'])
 
                             <!-- tittle -->
                             <div class="container-fluid text-center devcss865">
-                                <h4 style="margin-top: 24px;"><strong>Check out the eclipse2024.org Eclipse Simulator! </strong></h4>
+                                <h4 style="margin-top: 24px; font-size:17px"><strong>Check out the eclipse2024.org Eclipse Simulator! </strong></h4>
                                 <p>Wherever you decide to view from, be sure to plan your route carefully, and watch the weather
                                     to make sure you’ll have good skies on eclipse day. And please be sure to check out
                                     Eclipse2024.org’s eclipse simulator for any location you’d like to preview. The simulator
